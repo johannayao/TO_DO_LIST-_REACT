@@ -1,0 +1,53 @@
+
+.chu{
+    width: 90%;
+    height: 40px;
+   
+    margin-top: 30px;
+    display: flex;
+}
+
+textarea{
+    width: 80%;
+    height: 40px;
+    border: 2px solid rgb(227, 223, 223);
+    border-radius: 7px;
+}
+button{
+    cursor: pointer;
+}
+
+button .delete{
+    border: none;
+    padding: 10px;
+    width: 60px;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+button .modifier{
+    border: none;
+    padding: 10px;
+    width: 60px;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.delete{
+    border: none;
+    padding: 10px;
+    width: 60px;
+    
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.modify{
+    border: none;
+    padding: 10px;
+    width: 60px;
+    background-color: green;
+    border-radius: 5px;
+    margin-left: 20px;
+}
